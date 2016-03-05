@@ -1,0 +1,3417 @@
+{
+    "totalCount": 1506, 
+    "pages": 16, 
+    "currentPage": 0, 
+    "nextPage": 1, 
+    "records": [
+        {
+            "id": 31, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "标注有“九二年”和“九三年”的同一分值的硬币哪个更重？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+“九三年”多一横，需要更多材料，所以更重。", 
+            "answers": [
+                {
+                    "id": 107, 
+                    "puzzle_id": 31, 
+                    "answer": "A、九二年", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 108, 
+                    "puzzle_id": 31, 
+                    "answer": "B、九三年", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 109, 
+                    "puzzle_id": 31, 
+                    "answer": "C、一样重", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 41, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "空着肚子能吃几个鸡蛋？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+一个，吃了一个之后就不是空着肚子了。", 
+            "answers": [
+                {
+                    "id": 145, 
+                    "puzzle_id": 41, 
+                    "answer": "A、0", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 146, 
+                    "puzzle_id": 41, 
+                    "answer": "B、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 147, 
+                    "puzzle_id": 41, 
+                    "answer": "C、10", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 148, 
+                    "puzzle_id": 41, 
+                    "answer": "D、100", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 67, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "五个中国人去德国旅游，a会德语和罗马尼亚语，b会意大利语和德语，c会意大利语和芬兰语，d会葡萄牙语和罗马尼亚语，e会英语和瑞士语。a看完了一部电影，想告诉其余4人电影情节，请问需要经过几步传达？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+abcde都是中国人，a可以直接使用中文告诉所有人。", 
+            "answers": [
+                {
+                    "id": 247, 
+                    "puzzle_id": 67, 
+                    "answer": "A、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 248, 
+                    "puzzle_id": 67, 
+                    "answer": "B、2", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 249, 
+                    "puzzle_id": 67, 
+                    "answer": "C、3", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 250, 
+                    "puzzle_id": 67, 
+                    "answer": "D、4", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 251, 
+                    "puzzle_id": 67, 
+                    "answer": "E、不可能实现", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 103, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "脑筋急转弯：将一张圆形软面饼分成八等分，最少需要几刀？（理想状态，每一刀都是直线且必然切断）　", 
+            "difficulty": 3, 
+            "image": "/dailypuzzle/108.png", 
+            "analysis": "选择A。
+对折三次后，过扇形的圆心平分扇形切一刀即可。", 
+            "answers": [
+                {
+                    "id": 386, 
+                    "puzzle_id": 103, 
+                    "answer": "A、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 387, 
+                    "puzzle_id": 103, 
+                    "answer": "B、2", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 388, 
+                    "puzzle_id": 103, 
+                    "answer": "C、4", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 389, 
+                    "puzzle_id": 103, 
+                    "answer": "D、8", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 108, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "上课老师抽查背课文，小猪、小狗、小猫都举手了，老师会叫谁先背呢？　", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+因为旺旺仙贝（先背）。", 
+            "answers": [
+                {
+                    "id": 405, 
+                    "puzzle_id": 108, 
+                    "answer": "A、小猪", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 406, 
+                    "puzzle_id": 108, 
+                    "answer": "B、小狗", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 407, 
+                    "puzzle_id": 108, 
+                    "answer": "C、小猫", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 120, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "某个人，他喜欢400，但不喜欢300；喜欢100，但不喜欢99；喜欢3600，但不喜欢3700。问一下4个数他喜欢哪个？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择A。
+他喜欢400，100，3600均为平方数，所以他喜欢平方，所以选900，只有900是平方数。", 
+            "answers": [
+                {
+                    "id": 450, 
+                    "puzzle_id": 120, 
+                    "answer": "A、900", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 451, 
+                    "puzzle_id": 120, 
+                    "answer": "B、1000", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 452, 
+                    "puzzle_id": 120, 
+                    "answer": "C、1100", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 453, 
+                    "puzzle_id": 120, 
+                    "answer": "D、1200", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 123, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "蝴蝶、蚂蚁、蜘蛛、蜈蚣，他们一起工作，最后哪一个没有领到酬劳？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择D。
+因为无功（蜈蚣）不受禄。", 
+            "answers": [
+                {
+                    "id": 462, 
+                    "puzzle_id": 123, 
+                    "answer": "A、蝴蝶", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 463, 
+                    "puzzle_id": 123, 
+                    "answer": "B、蚂蚁", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 464, 
+                    "puzzle_id": 123, 
+                    "answer": "C、蜘蛛", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 465, 
+                    "puzzle_id": 123, 
+                    "answer": "D、蜈蚣", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 135, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "一天24小时，最急的是哪个时间？", 
+            "difficulty": 5, 
+            "image": "", 
+            "analysis": "选择A。
+00:59:59马上就01:00:00了，就是“快一点”啊，所以它比较急。", 
+            "answers": [
+                {
+                    "id": 507, 
+                    "puzzle_id": 135, 
+                    "answer": "A、00:59:59", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 508, 
+                    "puzzle_id": 135, 
+                    "answer": "B、11:11:11", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 509, 
+                    "puzzle_id": 135, 
+                    "answer": "C、12:34:56", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 510, 
+                    "puzzle_id": 135, 
+                    "answer": "D、23:59:59", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 141, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "旅行家萨米·琼在周游世界之后，回到他阔别十年的故乡。有一次，他向人们诉说了这十年中他在世界各地的所见所闻。他还向人们提出了两个怪问题。
+问1:在非洲的某地，我看到一个人的身体内有两颗心脏，而且都跳动得很正常。你说，这有可能吗?
+问2:在大洋洲的某一个村庄里，所有的人都只有一只右眼。你说，\"这有可能吗？
+", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+孕妇的一个身体里就跳动着两个心脏；所有人都只有一个右眼，另外一个叫做左眼。", 
+            "answers": [
+                {
+                    "id": 530, 
+                    "puzzle_id": 141, 
+                    "answer": "A、可能", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 531, 
+                    "puzzle_id": 141, 
+                    "answer": "B、不可能", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 532, 
+                    "puzzle_id": 141, 
+                    "answer": "C、也许", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 144, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "有一块直径1米的黑圆布，现在想用一元的硬币铺在上面，一直铺到完全盖住为止，则最少必须铺几层硬币才行？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+把硬币立起来竖着铺在上面。", 
+            "answers": [
+                {
+                    "id": 539, 
+                    "puzzle_id": 144, 
+                    "answer": "A、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 540, 
+                    "puzzle_id": 144, 
+                    "answer": "B、10", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 541, 
+                    "puzzle_id": 144, 
+                    "answer": "C、100", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 542, 
+                    "puzzle_id": 144, 
+                    "answer": "D、1000", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 152, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "你知道稀饭贵还是烧饼贵？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+因为物以“稀”为贵。", 
+            "answers": [
+                {
+                    "id": 569, 
+                    "puzzle_id": 152, 
+                    "answer": "A、稀饭", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 570, 
+                    "puzzle_id": 152, 
+                    "answer": "B、烧饼", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 571, 
+                    "puzzle_id": 152, 
+                    "answer": "C、一样贵", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 163, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "曼谷市正处于雨季。某天半夜12点钟，下了一场大雨。问题：72小时后，当地会不会出太阳？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+过72小时还是半夜12点，当然是不会出太阳啦！", 
+            "answers": [
+                {
+                    "id": 610, 
+                    "puzzle_id": 163, 
+                    "answer": "A、会", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 611, 
+                    "puzzle_id": 163, 
+                    "answer": "B、不会", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 168, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "船边挂着软梯，离海面2米，海水每小时上涨半米，几个小时海水能淹没软梯？", 
+            "difficulty": 1, 
+            "image": "", 
+            "analysis": "选择D。
+因为水涨船高，所以淹不了。", 
+            "answers": [
+                {
+                    "id": 628, 
+                    "puzzle_id": 168, 
+                    "answer": "A、1小时", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 629, 
+                    "puzzle_id": 168, 
+                    "answer": "B、4小时", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 630, 
+                    "puzzle_id": 168, 
+                    "answer": "C、24小时", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 631, 
+                    "puzzle_id": 168, 
+                    "answer": "D、以上都不对", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 179, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "老师写出\"申\"字，请小明解答，\"申\"字里包含多少个汉字?小明很快说出24个，即：一、二、三、十、工、土、士、王、干、 丰、口、日、曰、田、由、甲、申、山、上、中、七、击、旧。 然后得意地问老师：\"我的回答全面吗?\" 老师只是点点头，没有回答。请问，小明的回答全面吗？", 
+            "difficulty": 1, 
+            "image": "", 
+            "analysis": "选择B。
+还不全面，还有“古”字，“占”字等。", 
+            "answers": [
+                {
+                    "id": 673, 
+                    "puzzle_id": 179, 
+                    "answer": "A、全面", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 674, 
+                    "puzzle_id": 179, 
+                    "answer": "B、不全面", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 196, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "假如男人女人比赛玩智力题，一般谁会赢？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+因为难得糊涂（男的糊涂）啦，所以女人赢。
+", 
+            "answers": [
+                {
+                    "id": 742, 
+                    "puzzle_id": 196, 
+                    "answer": "A、男人", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 743, 
+                    "puzzle_id": 196, 
+                    "answer": "B、女人", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 218, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "有一个东西，一旦消失，9天之后才会再次出现；当下一次再消失时，又在2天后出现，然后又消失；在这之后一般需要等到10天后再现，但一年中也有一次是7天或8天后再现。这个东西就在我们身边。请问，它是什么?", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+这个东西就是用于表示日期的数字“1”。
+“1号”之后没有带“1”的日期，直到9天后“10”号出现。再之后直到“19号”为止都带有“1”，在“19号”之后夹了个“20号”，“1”再消失，两天后到“21号”，又出现，随后又消失；一般需要等到10天后的“31”号或“1号”再现。一年之中只有2月份的天数为28天或29天，所以一年中只有一次是7天或8天后又再现“1”。", 
+            "answers": [
+                {
+                    "id": 822, 
+                    "puzzle_id": 218, 
+                    "answer": "A、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 823, 
+                    "puzzle_id": 218, 
+                    "answer": "B、空气", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 824, 
+                    "puzzle_id": 218, 
+                    "answer": "C、字母A", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 825, 
+                    "puzzle_id": 218, 
+                    "answer": "D、大姨妈", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 219, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "是太阳叫公鸡起床还是公鸡叫太阳起床？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+因为太阳不会叫，只有公鸡会叫。", 
+            "answers": [
+                {
+                    "id": 826, 
+                    "puzzle_id": 219, 
+                    "answer": "A、太阳叫公鸡", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 827, 
+                    "puzzle_id": 219, 
+                    "answer": "B、公鸡叫太阳", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 225, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "有一批可口可乐做中奖促销，中奖率是1/3，（假设中奖平均分布）其中中奖的瓶盖里面印有特殊标记，可以送一瓶（送的可乐也是可以继续中奖的）。 现在需要100瓶可乐，问最少买多少瓶？（回答阿拉伯数字）", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+买1瓶，一直中奖就行了。", 
+            "answers": [
+                {
+                    "id": 848, 
+                    "puzzle_id": 225, 
+                    "answer": "A、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 849, 
+                    "puzzle_id": 225, 
+                    "answer": "B、10", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 850, 
+                    "puzzle_id": 225, 
+                    "answer": "C、33", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 851, 
+                    "puzzle_id": 225, 
+                    "answer": "D、100", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 247, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "农场主亚历山大的家里总是有很多刚榨的胡萝卜汁。他的儿子汤姆是个淘气包，一天，汤姆把一罐胡萝卜汁倒向站在窗外的弟弟约翰。胡萝卜汁像一条线一样准确无误地落在约翰的头上。但奇怪的是，约翰的头上和身上都没溅上一滴胡萝卜汁，地上也没有胡萝卜汁溅落的痕迹，你说会有这种事吗？", 
+            "difficulty": 1, 
+            "image": "", 
+            "analysis": "选择A。
+会。因为约翰仰着头，张着大嘴巴把倒下来的胡萝卜汁全部喝光了。
+", 
+            "answers": [
+                {
+                    "id": 935, 
+                    "puzzle_id": 247, 
+                    "answer": "A、会", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 936, 
+                    "puzzle_id": 247, 
+                    "answer": "B、不会", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 249, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "某百货商店的营业时间是早上10点到晚上6点。商店开门以后，平均每小时有100名顾客入内购物，每隔半小时便有20名顾客离开商店。那么，这家商店在营业了9个小时以后，有多少名顾客仍留在店内？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择D。
+一个顾客也没有，因为这时百货商店已经关门。
+", 
+            "answers": [
+                {
+                    "id": 941, 
+                    "puzzle_id": 249, 
+                    "answer": "A、400", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 942, 
+                    "puzzle_id": 249, 
+                    "answer": "B、540", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 943, 
+                    "puzzle_id": 249, 
+                    "answer": "C、600", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 944, 
+                    "puzzle_id": 249, 
+                    "answer": "D、以上都不对", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 257, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "鸭蛋一打有多少个？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+一“打”全碎了，故为0个。
+", 
+            "answers": [
+                {
+                    "id": 972, 
+                    "puzzle_id": 257, 
+                    "answer": "A、0", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 973, 
+                    "puzzle_id": 257, 
+                    "answer": "B、1", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 974, 
+                    "puzzle_id": 257, 
+                    "answer": "C、12", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 975, 
+                    "puzzle_id": 257, 
+                    "answer": "D、100", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 270, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "在一个房间里，有油灯、暖炉及壁炉。现在，想要用一根火柴将三个器具点燃，请问首先应该点哪一个？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择D。
+先点火柴，只有点燃了火柴才能去点其他的东西。", 
+            "answers": [
+                {
+                    "id": 1021, 
+                    "puzzle_id": 270, 
+                    "answer": "A、油灯", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1022, 
+                    "puzzle_id": 270, 
+                    "answer": "B、暖炉", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1023, 
+                    "puzzle_id": 270, 
+                    "answer": "C、壁炉", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1024, 
+                    "puzzle_id": 270, 
+                    "answer": "D、以上都不是", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 275, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "王大婶有三个儿子，这三个儿子又各有一个姐姐和妹妹，请问王大婶共有几个孩子？", 
+            "difficulty": 1, 
+            "image": "", 
+            "analysis": "选择B。
+一共5个孩子。从大到小性别依次为女、男、男、男、女。", 
+            "answers": [
+                {
+                    "id": 1039, 
+                    "puzzle_id": 275, 
+                    "answer": "A、4", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1040, 
+                    "puzzle_id": 275, 
+                    "answer": "B、5", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 1041, 
+                    "puzzle_id": 275, 
+                    "answer": "C、6", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1042, 
+                    "puzzle_id": 275, 
+                    "answer": "D、9", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 281, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "大多数人是用左手端碗，右手吃饭，对么？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+那要嘴巴干什么？人都是用嘴巴吃饭的。", 
+            "answers": [
+                {
+                    "id": 1061, 
+                    "puzzle_id": 281, 
+                    "answer": "A、对", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1062, 
+                    "puzzle_id": 281, 
+                    "answer": "B、不对", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 308, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "月亮上有过外星人吗？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+有啊，地球人去过，对于月球我们人类就是“外星人”。", 
+            "answers": [
+                {
+                    "id": 1152, 
+                    "puzzle_id": 308, 
+                    "answer": "A、有过", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 1153, 
+                    "puzzle_id": 308, 
+                    "answer": "B、没有", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1154, 
+                    "puzzle_id": 308, 
+                    "answer": "C、不知道", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 322, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "在RGB颜色表中
+#FFFFFF表示白色
+#000000表示黑色
+#FF0000表示红色
+那你知道#6anana表示什么颜色么？
+", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+6anana(banana)香蕉当然是黄色啦。
+", 
+            "answers": [
+                {
+                    "id": 1205, 
+                    "puzzle_id": 322, 
+                    "answer": "A、黄色", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 1207, 
+                    "puzzle_id": 322, 
+                    "answer": "B、绿色", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1208, 
+                    "puzzle_id": 322, 
+                    "answer": "C、蓝色", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1206, 
+                    "puzzle_id": 322, 
+                    "answer": "D、紫色", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 323, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "小明从来没有去过美国，他想去美国，至少应花多少钱？", 
+            "difficulty": 1, 
+            "image": "", 
+            "analysis": "选择A。
+光想是不用花钱的。
+", 
+            "answers": [
+                {
+                    "id": 1209, 
+                    "puzzle_id": 323, 
+                    "answer": "A、0美元", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 1210, 
+                    "puzzle_id": 323, 
+                    "answer": "B、1000美元", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1211, 
+                    "puzzle_id": 323, 
+                    "answer": "C、10000美元", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1212, 
+                    "puzzle_id": 323, 
+                    "answer": "D、100000美元", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 328, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "金钟奖、金马奖、金像奖哪个对国家贡献最大？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+金钟奖（“金钟”谐音“精忠”，精忠报国）。", 
+            "answers": [
+                {
+                    "id": 1229, 
+                    "puzzle_id": 328, 
+                    "answer": "A、金钟奖", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 1230, 
+                    "puzzle_id": 328, 
+                    "answer": "B、金马奖", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1231, 
+                    "puzzle_id": 328, 
+                    "answer": "C、金像奖", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 367, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "狮子，老虎，骡子，鹿在大漠里行走，谁渴？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择D。
+当然是鹿（因为look，隐痛“鹿渴”）", 
+            "answers": [
+                {
+                    "id": 1388, 
+                    "puzzle_id": 367, 
+                    "answer": "A、狮子", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1389, 
+                    "puzzle_id": 367, 
+                    "answer": "B、老虎", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1390, 
+                    "puzzle_id": 367, 
+                    "answer": "C、骡子", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1391, 
+                    "puzzle_id": 367, 
+                    "answer": "D、鹿", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 399, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "你知道100粒“喔喔奶糖”中哪一粒最甜吗？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+第一粒之后就习惯了这个味道了。", 
+            "answers": [
+                {
+                    "id": 1514, 
+                    "puzzle_id": 399, 
+                    "answer": "A、第一粒", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 1515, 
+                    "puzzle_id": 399, 
+                    "answer": "B、第二粒", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1516, 
+                    "puzzle_id": 399, 
+                    "answer": "C、第五十粒", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1517, 
+                    "puzzle_id": 399, 
+                    "answer": "D、最后一粒", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 412, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "女王说：“原来有个弟弟胆子很小，一点受不了惊吓，有天夜里弟弟又做了噩梦，梦见敌国的武士冲入皇宫，将剑刺入他的心脏。弟弟受到这个惊吓，在睡梦中就死去了。”你相信她说的话吗？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+不相信，因为弟弟在梦中被吓死不可能告诉她梦。", 
+            "answers": [
+                {
+                    "id": 1564, 
+                    "puzzle_id": 412, 
+                    "answer": "A、相信", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1565, 
+                    "puzzle_id": 412, 
+                    "answer": "B、不相信", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 416, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "长胡子的山羊是母羊还是公羊？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择C。
+山羊无论公母都长胡子。", 
+            "answers": [
+                {
+                    "id": 1580, 
+                    "puzzle_id": 416, 
+                    "answer": "A、公羊", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1581, 
+                    "puzzle_id": 416, 
+                    "answer": "B、母羊", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1582, 
+                    "puzzle_id": 416, 
+                    "answer": "C、都可能", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 452, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "Sroan拥有乔丹第一代到第十二代的篮球鞋，请问他最喜欢哪一双？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择D。
+最好的永远是在下一次。", 
+            "answers": [
+                {
+                    "id": 1715, 
+                    "puzzle_id": 452, 
+                    "answer": "A、第一双", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1716, 
+                    "puzzle_id": 452, 
+                    "answer": "B、第三双", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1717, 
+                    "puzzle_id": 452, 
+                    "answer": "C、第五双", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1718, 
+                    "puzzle_id": 452, 
+                    "answer": "D、以上都不是", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 460, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "英国出生过大人物吗？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+全是婴儿。", 
+            "answers": [
+                {
+                    "id": 1746, 
+                    "puzzle_id": 460, 
+                    "answer": "A、有", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1747, 
+                    "puzzle_id": 460, 
+                    "answer": "B、没有", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 475, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "江家有三个女儿，大女儿、二女儿、小女儿。谁的身材最辣？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+姜（江）还是老的辣！", 
+            "answers": [
+                {
+                    "id": 1802, 
+                    "puzzle_id": 475, 
+                    "answer": "A、大女儿", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 1803, 
+                    "puzzle_id": 475, 
+                    "answer": "B、二女儿", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1804, 
+                    "puzzle_id": 475, 
+                    "answer": "C、三女儿", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 481, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "Pasber一共有7个儿子，这7个儿子都有一个妹妹，那么，Pasber一共有几个子女？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+八个子女，妹妹最小，是所有儿子的妹妹。", 
+            "answers": [
+                {
+                    "id": 1823, 
+                    "puzzle_id": 481, 
+                    "answer": "A、7", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1824, 
+                    "puzzle_id": 481, 
+                    "answer": "B、8", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 1825, 
+                    "puzzle_id": 481, 
+                    "answer": "C、14", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 1826, 
+                    "puzzle_id": 481, 
+                    "answer": "D、21", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 560, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "狗的儿子跟龙的儿子，有几点差异？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+狗的儿子：犬子；龙的儿子：太子。", 
+            "answers": [
+                {
+                    "id": 2141, 
+                    "puzzle_id": 560, 
+                    "answer": "A、0", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2142, 
+                    "puzzle_id": 560, 
+                    "answer": "B、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 2143, 
+                    "puzzle_id": 560, 
+                    "answer": "C、2", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2144, 
+                    "puzzle_id": 560, 
+                    "answer": "D、3", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2145, 
+                    "puzzle_id": 560, 
+                    "answer": "E、4", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2146, 
+                    "puzzle_id": 560, 
+                    "answer": "F、5", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2147, 
+                    "puzzle_id": 560, 
+                    "answer": "G、6", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2148, 
+                    "puzzle_id": 560, 
+                    "answer": "H、7", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 600, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "一块钱可以买几头牛？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择C。
+因为九牛一毛，九头牛值一毛钱，那么一块钱就可以买90头牛。", 
+            "answers": [
+                {
+                    "id": 2310, 
+                    "puzzle_id": 600, 
+                    "answer": "A、0", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2311, 
+                    "puzzle_id": 600, 
+                    "answer": "B、1", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2312, 
+                    "puzzle_id": 600, 
+                    "answer": "C、90", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 2313, 
+                    "puzzle_id": 600, 
+                    "answer": "D、100", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 614, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "在香港生活的人，是不是可以埋葬在广州呢？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+活人是不能埋葬的。", 
+            "answers": [
+                {
+                    "id": 2367, 
+                    "puzzle_id": 614, 
+                    "answer": "A、能", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2368, 
+                    "puzzle_id": 614, 
+                    "answer": "B、不能", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 630, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "月球引力只有地球引力的六分之一，如果一只老鹰在地球上一个小时可以飞30公里，它在月球上1小时可以飞几公里？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+因为月球上没有空气，老鹰翘辫子了。", 
+            "answers": [
+                {
+                    "id": 2427, 
+                    "puzzle_id": 630, 
+                    "answer": "A、0", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 2428, 
+                    "puzzle_id": 630, 
+                    "answer": "B、5", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2429, 
+                    "puzzle_id": 630, 
+                    "answer": "C、30", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2430, 
+                    "puzzle_id": 630, 
+                    "answer": "D、180", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 661, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "什么字母能喝？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择C。
+T发音同Tea(茶)。", 
+            "answers": [
+                {
+                    "id": 2547, 
+                    "puzzle_id": 661, 
+                    "answer": "A、C", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2546, 
+                    "puzzle_id": 661, 
+                    "answer": "B、O", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2548, 
+                    "puzzle_id": 661, 
+                    "answer": "C、T", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 2549, 
+                    "puzzle_id": 661, 
+                    "answer": "D、Z", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 674, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "什么数字最听话呢？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择C。
+百依百顺，当然是100啦", 
+            "answers": [
+                {
+                    "id": 2594, 
+                    "puzzle_id": 674, 
+                    "answer": "A、0", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2595, 
+                    "puzzle_id": 674, 
+                    "answer": "B、2", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2596, 
+                    "puzzle_id": 674, 
+                    "answer": "C、100", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 2597, 
+                    "puzzle_id": 674, 
+                    "answer": "D、10000", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 689, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "白骨精要吃唐僧肉，孙悟空举棒喊道：“我打，我打，我打死你。”究竟有多少个白骨精？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择D。
+三打白骨精，一打为12个，所以有36只白骨精。", 
+            "answers": [
+                {
+                    "id": 2664, 
+                    "puzzle_id": 689, 
+                    "answer": "A、1", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2665, 
+                    "puzzle_id": 689, 
+                    "answer": "B、3", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2666, 
+                    "puzzle_id": 689, 
+                    "answer": "C、12", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2667, 
+                    "puzzle_id": 689, 
+                    "answer": "D、36", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 709, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "太阳，月亮，星星哪个是哑巴？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择C。
+天上的星星不说话-鲁冰花", 
+            "answers": [
+                {
+                    "id": 2743, 
+                    "puzzle_id": 709, 
+                    "answer": "A、太阳", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2744, 
+                    "puzzle_id": 709, 
+                    "answer": "B、月亮", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2745, 
+                    "puzzle_id": 709, 
+                    "answer": "C、星星", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 727, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "金木水火土，谁的腿长？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择D。
+火腿长（肠）。", 
+            "answers": [
+                {
+                    "id": 2818, 
+                    "puzzle_id": 727, 
+                    "answer": "A、金", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2819, 
+                    "puzzle_id": 727, 
+                    "answer": "B、木", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2820, 
+                    "puzzle_id": 727, 
+                    "answer": "C、水", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2821, 
+                    "puzzle_id": 727, 
+                    "answer": "D、火", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 2822, 
+                    "puzzle_id": 727, 
+                    "answer": "E、土", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 742, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "城市和乡下，哪个地方的河比较涌急？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+因为乡间河太急（相煎何太急）", 
+            "answers": [
+                {
+                    "id": 2880, 
+                    "puzzle_id": 742, 
+                    "answer": "A、城市", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2881, 
+                    "puzzle_id": 742, 
+                    "answer": "B、乡下", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 757, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "c和l之间还有一个字母是什么？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择A。
+你把c和l拼到一块儿就知道了。", 
+            "answers": [
+                {
+                    "id": 2933, 
+                    "puzzle_id": 757, 
+                    "answer": "A、d", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 2934, 
+                    "puzzle_id": 757, 
+                    "answer": "B、h", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2935, 
+                    "puzzle_id": 757, 
+                    "answer": "C、s", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 2936, 
+                    "puzzle_id": 757, 
+                    "answer": "D、t", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 775, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "爷爷、爸爸、弟弟谁听了妈妈的话会流眼泪？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+爷爷（夜夜）想起妈妈的话，闪闪的泪光鲁冰花。", 
+            "answers": [
+                {
+                    "id": 3002, 
+                    "puzzle_id": 775, 
+                    "answer": "A、爷爷", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3003, 
+                    "puzzle_id": 775, 
+                    "answer": "B、爸爸", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3004, 
+                    "puzzle_id": 775, 
+                    "answer": "C、弟弟", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 792, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "丹丹是小狗的名字还是小老虎的名字？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+丹丹是老虎（虎视眈眈）", 
+            "answers": [
+                {
+                    "id": 3067, 
+                    "puzzle_id": 792, 
+                    "answer": "A、小狗", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3068, 
+                    "puzzle_id": 792, 
+                    "answer": "B、小老虎", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3069, 
+                    "puzzle_id": 792, 
+                    "answer": "C、都是", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3070, 
+                    "puzzle_id": 792, 
+                    "answer": "D、都不是", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 805, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "哪个牌子的电器最难闻？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择C。
+TCL（太臭了）。", 
+            "answers": [
+                {
+                    "id": 3112, 
+                    "puzzle_id": 805, 
+                    "answer": "A、海尔", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3113, 
+                    "puzzle_id": 805, 
+                    "answer": "B、美的", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3114, 
+                    "puzzle_id": 805, 
+                    "answer": "C、TCL", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3115, 
+                    "puzzle_id": 805, 
+                    "answer": "D、飞利浦", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 823, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "一年里最萌的是哪一天？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择C。
+十月十日组成“萌”字。", 
+            "answers": [
+                {
+                    "id": 3185, 
+                    "puzzle_id": 823, 
+                    "answer": "A、1月1日", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3186, 
+                    "puzzle_id": 823, 
+                    "answer": "B、6月1日", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3187, 
+                    "puzzle_id": 823, 
+                    "answer": "C、10月10日", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3188, 
+                    "puzzle_id": 823, 
+                    "answer": "D、12月25日", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 839, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "上天和入地哪个更容易？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+因为一步登天，所以上天更容易。", 
+            "answers": [
+                {
+                    "id": 3253, 
+                    "puzzle_id": 839, 
+                    "answer": "A、上天", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3254, 
+                    "puzzle_id": 839, 
+                    "answer": "B、入地", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 853, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "哪两种蔬菜有手机？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择A。
+正说为萝卜白菜各有所爱，通索爱。", 
+            "answers": [
+                {
+                    "id": 3308, 
+                    "puzzle_id": 853, 
+                    "answer": "A、白菜和萝卜", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3309, 
+                    "puzzle_id": 853, 
+                    "answer": "B、白菜和草莓", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3310, 
+                    "puzzle_id": 853, 
+                    "answer": "C、萝卜和香蕉", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3311, 
+                    "puzzle_id": 853, 
+                    "answer": "D、萝卜和草莓", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 869, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "小猫，小狗，小虎同时做一个题目谁做对了？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择C。
+因为小虎对（小虎队）", 
+            "answers": [
+                {
+                    "id": 3374, 
+                    "puzzle_id": 869, 
+                    "answer": "A、小猫", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3375, 
+                    "puzzle_id": 869, 
+                    "answer": "B、小狗", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3376, 
+                    "puzzle_id": 869, 
+                    "answer": "C、小虎", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 885, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "有一个警察，一个医生，一个老师，一个大学生一起出门，在路上看到一个小偷在偷东西，问是谁挺身而出喝止了小偷？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择B。
+“路见不平一声（医生）吼啊”", 
+            "answers": [
+                {
+                    "id": 3432, 
+                    "puzzle_id": 885, 
+                    "answer": "A、警察", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3433, 
+                    "puzzle_id": 885, 
+                    "answer": "B、医生", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3434, 
+                    "puzzle_id": 885, 
+                    "answer": "C、老师", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3435, 
+                    "puzzle_id": 885, 
+                    "answer": "D、大学生", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 903, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "你困在森林里。有4个出口（北，南，东，西）。在北方有一个黑洞会将你吞没。在西方有地上有一个洞太大了，以至于用绳子也过不去。在南方有3个饥饿的狮子，三个月没吃东西了，等着吃你。在东方，有一个巨大的石板，太高了，它占据了整个空间。你走哪一条路逃走？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择B。
+饿了3个月的狮子早死了。", 
+            "answers": [
+                {
+                    "id": 3500, 
+                    "puzzle_id": 903, 
+                    "answer": "A、东", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3501, 
+                    "puzzle_id": 903, 
+                    "answer": "B、南", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3502, 
+                    "puzzle_id": 903, 
+                    "answer": "C、西", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3503, 
+                    "puzzle_id": 903, 
+                    "answer": "D、北", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 917, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "一只黑螃蟹和一只红螃蟹赛跑，谁赢了？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+因为红螃蟹熟了。", 
+            "answers": [
+                {
+                    "id": 3554, 
+                    "puzzle_id": 917, 
+                    "answer": "A、黑螃蟹", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3555, 
+                    "puzzle_id": 917, 
+                    "answer": "B、红螃蟹", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3556, 
+                    "puzzle_id": 917, 
+                    "answer": "C、不确定", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 934, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "一张矩形的纸折几折可以到达太阳？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+一张纸相当于“口”；对折一下，出现一条折痕，就是“日”了。", 
+            "answers": [
+                {
+                    "id": 3623, 
+                    "puzzle_id": 934, 
+                    "answer": "A、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3624, 
+                    "puzzle_id": 934, 
+                    "answer": "B、2", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3625, 
+                    "puzzle_id": 934, 
+                    "answer": "C、3", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3626, 
+                    "puzzle_id": 934, 
+                    "answer": "D、4", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 948, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "黄狗，黑狗，白狗一起掉进江里，哪只狗沉下去了？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择B。
+沉默，当然是黑犬沉下去了。", 
+            "answers": [
+                {
+                    "id": 3679, 
+                    "puzzle_id": 948, 
+                    "answer": "A、黄狗", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3680, 
+                    "puzzle_id": 948, 
+                    "answer": "B、黑狗", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3681, 
+                    "puzzle_id": 948, 
+                    "answer": "C、白狗", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 971, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "大街上，酱油正在和醋对殴，引来众人围观！猜猜最后谁赢了？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+当然是醋赢了，因为大家都是来打酱油的。", 
+            "answers": [
+                {
+                    "id": 3765, 
+                    "puzzle_id": 971, 
+                    "answer": "A、醋", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3766, 
+                    "puzzle_id": 971, 
+                    "answer": "B、酱油", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 983, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "钟表的哪个部分总是旧的？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择C。
+秒针（Second Hand，二手）", 
+            "answers": [
+                {
+                    "id": 3810, 
+                    "puzzle_id": 983, 
+                    "answer": "A、时针", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3811, 
+                    "puzzle_id": 983, 
+                    "answer": "B、分针", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3812, 
+                    "puzzle_id": 983, 
+                    "answer": "C、秒针", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 996, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "二郎神常告诫哮天犬：千万不要偷食月亮，否则会有灾祸的。这反激起它的好奇心，于是趁真君外出，溜去偷吃。谁知一口刚刚下肚，腹中便剧痛起来。它哀嚎着爬回家，泪眼婆娑地看着主人。二郎神对它说：不听我的话，这下自己有罪受了吧！猜猜哮天犬吃了月亮之后到底肿么了呢？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+怀孕了，因为食月（十月）怀胎嘛。", 
+            "answers": [
+                {
+                    "id": 3860, 
+                    "puzzle_id": 996, 
+                    "answer": "A、怀孕", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 3861, 
+                    "puzzle_id": 996, 
+                    "answer": "B、拉稀", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3862, 
+                    "puzzle_id": 996, 
+                    "answer": "C、屌爆", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1015, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "地铁上原本有三头羊，中途上去一只狼，狼到站下车了，请问车上还有几头羊？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择D。
+三头，因为地铁上不准吃东西。", 
+            "answers": [
+                {
+                    "id": 3929, 
+                    "puzzle_id": 1015, 
+                    "answer": "A、0", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3930, 
+                    "puzzle_id": 1015, 
+                    "answer": "B、1", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3931, 
+                    "puzzle_id": 1015, 
+                    "answer": "C、2", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 3932, 
+                    "puzzle_id": 1015, 
+                    "answer": "D、3", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1049, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "大民家里种着牡丹花、水仙花、杜鹃花、蝴蝶兰、茶花，请问他家里共有几个门？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择D。
+因为“五花八门”。牡丹花、水仙花、杜鹃花、蝴蝶兰、茶花一共有五种花，就是五花，所以大民家有八个门。", 
+            "answers": [
+                {
+                    "id": 4059, 
+                    "puzzle_id": 1049, 
+                    "answer": "A、2", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4060, 
+                    "puzzle_id": 1049, 
+                    "answer": "B、4", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4061, 
+                    "puzzle_id": 1049, 
+                    "answer": "C、6", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4062, 
+                    "puzzle_id": 1049, 
+                    "answer": "D、8", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1068, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "喜鹊，凤凰、孔雀谁适合当服务员？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择C。
+因为孔雀会开瓶（屏）。", 
+            "answers": [
+                {
+                    "id": 4136, 
+                    "puzzle_id": 1068, 
+                    "answer": "A、喜鹊", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4137, 
+                    "puzzle_id": 1068, 
+                    "answer": "B、凤凰", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4138, 
+                    "puzzle_id": 1068, 
+                    "answer": "C、孔雀", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1087, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "狂风暴雨的天气，8个人用雨伞顶着风雨在公交车站等车，后来有7个人把雨伞给收了起来。请问车站还有几个人？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+当你在车站等车时，收雨伞后的第二个动作是什么呢？当然是上车啦。", 
+            "answers": [
+                {
+                    "id": 4207, 
+                    "puzzle_id": 1087, 
+                    "answer": "A、1", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4208, 
+                    "puzzle_id": 1087, 
+                    "answer": "B、3", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4209, 
+                    "puzzle_id": 1087, 
+                    "answer": "C、5", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4210, 
+                    "puzzle_id": 1087, 
+                    "answer": "D、7", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1099, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "以下谁是文人呢？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+因为“白面书生”。", 
+            "answers": [
+                {
+                    "id": 4252, 
+                    "puzzle_id": 1099, 
+                    "answer": "A、白米", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4253, 
+                    "puzzle_id": 1099, 
+                    "answer": "B、白面", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4254, 
+                    "puzzle_id": 1099, 
+                    "answer": "C、白菜", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4255, 
+                    "puzzle_id": 1099, 
+                    "answer": "D、白萝卜", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1108, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "有六盏灯，都是一条电路上的。ABCD灭的时候E必须亮，E亮的时候F必须灭，ABCD亮的时候E必须灭，E灭的时候F必须亮。而突然有一次，ABCDE都灭了，请问此时F灯是亮还是灭的？（所有的灯泡都没有坏）", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+F是灭的，因为ABCDE都灭的话只有可能在停电的时候才能遇到，停电了话。F灯当然就是灭的。", 
+            "answers": [
+                {
+                    "id": 4284, 
+                    "puzzle_id": 1108, 
+                    "answer": "A、亮", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4285, 
+                    "puzzle_id": 1108, 
+                    "answer": "B、灭", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1122, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "如果把台湾海峡填平了，台湾将如何？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择C。
+填平后台湾由岛变成了半岛，少了一半，所以是变小了。", 
+            "answers": [
+                {
+                    "id": 4335, 
+                    "puzzle_id": 1122, 
+                    "answer": "A、变大了", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4336, 
+                    "puzzle_id": 1122, 
+                    "answer": "B、不变", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4337, 
+                    "puzzle_id": 1122, 
+                    "answer": "C、变小了", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1135, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "我国哪座城市的人最正直？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择D。
+身正（深圳）不怕影子斜。", 
+            "answers": [
+                {
+                    "id": 4382, 
+                    "puzzle_id": 1135, 
+                    "answer": "A、北京", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4383, 
+                    "puzzle_id": 1135, 
+                    "answer": "B、武汉", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4384, 
+                    "puzzle_id": 1135, 
+                    "answer": "C、上海", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4385, 
+                    "puzzle_id": 1135, 
+                    "answer": "D、深圳", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1145, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "猪、狗、羊、兔、猫，谁是Gay？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择D。
+兔子，因为兔斯（是）基。", 
+            "answers": [
+                {
+                    "id": 4422, 
+                    "puzzle_id": 1145, 
+                    "answer": "A、猪", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4423, 
+                    "puzzle_id": 1145, 
+                    "answer": "B、狗", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4424, 
+                    "puzzle_id": 1145, 
+                    "answer": "C、羊", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4425, 
+                    "puzzle_id": 1145, 
+                    "answer": "D、兔", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4426, 
+                    "puzzle_id": 1145, 
+                    "answer": "E、猫", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1166, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "书、作业本、钢笔谁的心眼最坏？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+书的心眼最坏，因为害人之心不可（Book）有。", 
+            "answers": [
+                {
+                    "id": 4510, 
+                    "puzzle_id": 1166, 
+                    "answer": "A、书", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4511, 
+                    "puzzle_id": 1166, 
+                    "answer": "B、作业本", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4512, 
+                    "puzzle_id": 1166, 
+                    "answer": "C、钢笔", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1185, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "熊猫和袋鼠去逛超市，保安不会让谁进？", 
+            "difficulty": 1, 
+            "image": "", 
+            "analysis": "选择B。
+不会让袋鼠进，因为袋鼠身上有口袋需要先存包。", 
+            "answers": [
+                {
+                    "id": 4592, 
+                    "puzzle_id": 1185, 
+                    "answer": "A、熊猫", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4593, 
+                    "puzzle_id": 1185, 
+                    "answer": "B、袋鼠", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1195, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "主人被打，皮被打破了，那骨头、牙齿、肉、血、毛谁说“好”呢？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择D。
+因为皮开肉绽（赞）", 
+            "answers": [
+                {
+                    "id": 4632, 
+                    "puzzle_id": 1195, 
+                    "answer": "A、骨头", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4629, 
+                    "puzzle_id": 1195, 
+                    "answer": "B、牙齿", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4633, 
+                    "puzzle_id": 1195, 
+                    "answer": "C、血", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4630, 
+                    "puzzle_id": 1195, 
+                    "answer": "D、肉", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4631, 
+                    "puzzle_id": 1195, 
+                    "answer": "E、毛", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1206, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "圣诞老人如果有孩子，他的孩子应该是什么星座的？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择C。
+圣诞老人只能每年12月25日与凡人接触，如果他有孩子必然是这个时候怀上的。于是，经过9个多月的怀胎，生出来的孩子应该是天秤座的。不考虑早产等特殊情况（题干中写的是“应该”而不是“一定”）", 
+            "answers": [
+                {
+                    "id": 4673, 
+                    "puzzle_id": 1206, 
+                    "answer": "A、白羊座", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4674, 
+                    "puzzle_id": 1206, 
+                    "answer": "B、巨蟹座", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4675, 
+                    "puzzle_id": 1206, 
+                    "answer": "C、天秤座", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4676, 
+                    "puzzle_id": 1206, 
+                    "answer": "D、摩羯座", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1217, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "下面这四个时间点，在1天24个小时中，哪个时间点最着急？", 
+            "difficulty": 5, 
+            "image": "", 
+            "analysis": "选择B。
+0点57分，因为这个时间是“快一点了”。", 
+            "answers": [
+                {
+                    "id": 4714, 
+                    "puzzle_id": 1217, 
+                    "answer": "A、23：59", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4715, 
+                    "puzzle_id": 1217, 
+                    "answer": "B、0：57", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4716, 
+                    "puzzle_id": 1217, 
+                    "answer": "C、8：50", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4717, 
+                    "puzzle_id": 1217, 
+                    "answer": "D、14：30", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1235, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "贱人和好人谁的体重更轻一些？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择B。
+贱人就是矫情（较轻）。", 
+            "answers": [
+                {
+                    "id": 4794, 
+                    "puzzle_id": 1235, 
+                    "answer": "A、好人", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4795, 
+                    "puzzle_id": 1235, 
+                    "answer": "B、贱人", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1247, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "苍蝇落在哪里会变漂亮？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+苍蝇是fly，黄油是butter，苍蝇落在黄油上就是butterfly（蝴蝶）。", 
+            "answers": [
+                {
+                    "id": 4838, 
+                    "puzzle_id": 1247, 
+                    "answer": "A、玫瑰", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4839, 
+                    "puzzle_id": 1247, 
+                    "answer": "B、黄油", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4840, 
+                    "puzzle_id": 1247, 
+                    "answer": "C、桌子", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4841, 
+                    "puzzle_id": 1247, 
+                    "answer": "D、窗户", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1268, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "什么省份没有老板？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择C。
+因为山西“煤老板”啊！", 
+            "answers": [
+                {
+                    "id": 4916, 
+                    "puzzle_id": 1268, 
+                    "answer": "A、湖南省", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4917, 
+                    "puzzle_id": 1268, 
+                    "answer": "B、安徽省", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4918, 
+                    "puzzle_id": 1268, 
+                    "answer": "C、山西省", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4919, 
+                    "puzzle_id": 1268, 
+                    "answer": "D、四川省", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1284, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "《多啦A梦》小红，大雄长大了生病了，该找里面的谁看病？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择C。
+小夫长大了变大夫，所以找大夫看病。", 
+            "answers": [
+                {
+                    "id": 4986, 
+                    "puzzle_id": 1284, 
+                    "answer": "A、静香", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4987, 
+                    "puzzle_id": 1284, 
+                    "answer": "B、胖虎", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 4988, 
+                    "puzzle_id": 1284, 
+                    "answer": "C、小夫", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 4989, 
+                    "puzzle_id": 1284, 
+                    "answer": "D、多啦A梦", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1380, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "一天，虫子世界发生了一起命案：虫子小明于昨夜死于家中，已知有作案嫌疑的虫子分别是：姓王，姓吴，姓李，姓张的虫子。请问是谁下的手？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择C。
+因为（吴虫）无从下手嘛。", 
+            "answers": [
+                {
+                    "id": 5384, 
+                    "puzzle_id": 1380, 
+                    "answer": "A、姓张的虫子", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5385, 
+                    "puzzle_id": 1380, 
+                    "answer": "B、姓李的虫子", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5386, 
+                    "puzzle_id": 1380, 
+                    "answer": "C、姓吴的虫子", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 5387, 
+                    "puzzle_id": 1380, 
+                    "answer": "D、姓王的虫子", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5388, 
+                    "puzzle_id": 1380, 
+                    "answer": "E、是小明自杀", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1398, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "什么动物得到的掌声最多？", 
+            "difficulty": 1, 
+            "image": "", 
+            "analysis": "选择B。
+当然是蚊子啦，蚊子飞过总是会被人们拍死！", 
+            "answers": [
+                {
+                    "id": 5466, 
+                    "puzzle_id": 1398, 
+                    "answer": "A、海豚", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5467, 
+                    "puzzle_id": 1398, 
+                    "answer": "B、蚊子", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 5468, 
+                    "puzzle_id": 1398, 
+                    "answer": "C、狗", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5469, 
+                    "puzzle_id": 1398, 
+                    "answer": "D、猫", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1415, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "早上、中午、晚上哪个时间段做坏事最好？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择B。
+天网恢恢疏而不漏，做坏事“早晚”都要被发现的，所以中午做坏事不会被发现，即中午做坏事最好。", 
+            "answers": [
+                {
+                    "id": 5538, 
+                    "puzzle_id": 1415, 
+                    "answer": "A、早上", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5539, 
+                    "puzzle_id": 1415, 
+                    "answer": "B、中午", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 5540, 
+                    "puzzle_id": 1415, 
+                    "answer": "C、晚上", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1440, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "一群殖民者来到一个岛，里面的土著人联合起来反抗他们，请问他们需要什么药物来削弱土著人的反抗？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择C。
+布洛芬，谐音：部落分，部落分裂了，对殖民者的抵抗就削弱了。", 
+            "answers": [
+                {
+                    "id": 5653, 
+                    "puzzle_id": 1440, 
+                    "answer": "A、鸦片", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5654, 
+                    "puzzle_id": 1440, 
+                    "answer": "B、阿司匹林", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5655, 
+                    "puzzle_id": 1440, 
+                    "answer": "C、布洛芬", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 5656, 
+                    "puzzle_id": 1440, 
+                    "answer": "D、硝酸甘油", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1458, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "小偷最害怕别人说那三个字母？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择A。
+I C(See) U（You）", 
+            "answers": [
+                {
+                    "id": 5731, 
+                    "puzzle_id": 1458, 
+                    "answer": "A、I,C,U", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 5732, 
+                    "puzzle_id": 1458, 
+                    "answer": "B、I,S,Y", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5733, 
+                    "puzzle_id": 1458, 
+                    "answer": "C、I,K,Y", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1485, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "李白和杜甫进行书法赛，每人一张白纸，各写一句诗，请问最后谁赢了？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+李白字太白，白纸上看不见，杜甫字子美（字字美）。", 
+            "answers": [
+                {
+                    "id": 5836, 
+                    "puzzle_id": 1485, 
+                    "answer": "A、李白", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5837, 
+                    "puzzle_id": 1485, 
+                    "answer": "B、杜甫", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 5838, 
+                    "puzzle_id": 1485, 
+                    "answer": "C、平手", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1503, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "要是包公穿越到现在，他会先去哪个餐馆呢？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择D。
+包公喜欢吃“开封菜”，那么就是“KFC”了。", 
+            "answers": [
+                {
+                    "id": 5918, 
+                    "puzzle_id": 1503, 
+                    "answer": "A、麦当劳", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5919, 
+                    "puzzle_id": 1503, 
+                    "answer": "B、兰州拉面", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5920, 
+                    "puzzle_id": 1503, 
+                    "answer": "C、北京烤鸭", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5921, 
+                    "puzzle_id": 1503, 
+                    "answer": "D、肯德基", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1519, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "耳、眼、鼻、口、脚、手六位兄弟参加百米短跑竞赛，比赛还没有开始，就有一位先知先觉的小弟弟预测了谁会先到达终点，请问他是谁？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择B。
+是“眼”小弟，因为“眼明手快”，“眼”小弟明白“手”哥哥快嘛。", 
+            "answers": [
+                {
+                    "id": 5982, 
+                    "puzzle_id": 1519, 
+                    "answer": "A、耳", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5983, 
+                    "puzzle_id": 1519, 
+                    "answer": "B、眼", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 5984, 
+                    "puzzle_id": 1519, 
+                    "answer": "C、鼻", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5985, 
+                    "puzzle_id": 1519, 
+                    "answer": "D、口", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5986, 
+                    "puzzle_id": 1519, 
+                    "answer": "E、手", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 5987, 
+                    "puzzle_id": 1519, 
+                    "answer": "F、脚", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1530, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "地火水风光暗，谁的腿更长？（提示：物品）", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择B。
+火的腿更长，因为火腿肠（长）。", 
+            "answers": [
+                {
+                    "id": 6032, 
+                    "puzzle_id": 1530, 
+                    "answer": "A、水", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6033, 
+                    "puzzle_id": 1530, 
+                    "answer": "B、火", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 6034, 
+                    "puzzle_id": 1530, 
+                    "answer": "C、地", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6035, 
+                    "puzzle_id": 1530, 
+                    "answer": "D、风", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6036, 
+                    "puzzle_id": 1530, 
+                    "answer": "E、光", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6037, 
+                    "puzzle_id": 1530, 
+                    "answer": "F、暗", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1541, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "爱一个人只要忍受他（她）的缺点就够了，对吗？", 
+            "difficulty": 1, 
+            "image": "", 
+            "analysis": "选择B。
+有了“缺碘”后，你还得忍受他（她）的大脖子病。", 
+            "answers": [
+                {
+                    "id": 6076, 
+                    "puzzle_id": 1541, 
+                    "answer": "A、对", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6077, 
+                    "puzzle_id": 1541, 
+                    "answer": "B、不对", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1553, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "四个老太太优美、慧美、华美、真美是同胞姐妹，一天下午她们打的来到女子学院看望其中一位老太太的外孙女、也就是其他三位老太太的姨外孙女——隋琪。来到学院传达室，门卫老张给她们进行了详细登记，然后由传达室老李负责叫隋琪前来传达室与她的外婆、姨外婆们见面。老奶奶们一见久未见到的隋琪都非常高兴。其中有一位老奶奶连忙不禁问起老张来：“您猜得出隋琪的外婆是那一位吗？”老张这下可难住了，看看隋琪与这四位老奶奶都十分貌似，他不得不一边仔细看看她们的表情和一举一动，再一边仔细看看登记表上的情况，折腾了好一阵子后才猜出了隋琪的外婆。你听了情况后能猜出来吗？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择B。
+先看“水起”为隋琪的谐音， 风生水起——风“生”了水起；而“挥袂”是慧美的谐音，挥袂生风——挥袂“生”了风。所以，隋琪的外婆是慧美老太太。", 
+            "answers": [
+                {
+                    "id": 6121, 
+                    "puzzle_id": 1553, 
+                    "answer": "A、优美", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6122, 
+                    "puzzle_id": 1553, 
+                    "answer": "B、惠美", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 6123, 
+                    "puzzle_id": 1553, 
+                    "answer": "C、华美", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6124, 
+                    "puzzle_id": 1553, 
+                    "answer": "D、真美", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1567, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "【谁走丢了】元旦一清早，邬家六位兄弟姐妹邬帅、邬解、邬群、邬颖、邬滔、邬浩来到北湖公园，准备上游艇玩耍。哇，要乘游艇的人好多哦！他们无法互相紧密跟随，只能各自挤进百十来人当中蜂拥而上。待坐定后，大哥邬帅一清查人数傻眼了，怎么一位弟弟不见了？邬帅连忙和其他四位弟弟妹妹下船上岸寻找，并立即电话告诉在家的爸爸妈妈，还不等邬帅开口，爸爸就十分有把握地问：“是不是xx丢了？”“是的！他回家了吗？”邬帅有点生气又有点高兴地问。“没有回家啊！”爸爸回答道。“他跟你们电话联系了吗？”邬帅连忙问。“没有啊！”爸爸有点带着急的心情简单地答道。邬帅和其他弟弟妹妹们纳闷了：他没回家，又没有与爸爸妈妈电话联系联系，爸爸怎么知道他跟我们走丢了呢？
+你能不能帮忙分析一下，是那一位走丢了呢？", 
+            "difficulty": 5, 
+            "image": "", 
+            "analysis": "选择C。
+邬颖的谐音为无影，有成语“无影无踪”，所以是邬颖找不到踪影了。", 
+            "answers": [
+                {
+                    "id": 6175, 
+                    "puzzle_id": 1567, 
+                    "answer": "A、邬解", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6174, 
+                    "puzzle_id": 1567, 
+                    "answer": "B、邬群", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6176, 
+                    "puzzle_id": 1567, 
+                    "answer": "C、邬颖", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 6178, 
+                    "puzzle_id": 1567, 
+                    "answer": "D、邬滔", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6177, 
+                    "puzzle_id": 1567, 
+                    "answer": "E、邬浩", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1590, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "一个糖尿病人需要仔细控制自己的饮食，减少食物中的含糖量。下面是一个关于淀粉的标准：
+一个糖尿病人正常的每顿主食是250g米饭，这个量刚刚足够又不会超量。每吃100g土豆要少吃55g米饭，因为土豆中也含糖。每吃100g山药要少吃35g米饭。每吃100g排骨要少吃15g米饭。
+现在，已知小A的爷爷在吃米饭前先吃了48g山药，80g土豆，250g排骨，100g芹菜（几乎不含糖），小A的爷爷原先空腹情况下每顿主食为200g米饭，则现在他这顿应吃的米饭量是：
+（四舍五入，保留整数）", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择D。
+我可没说小A的爷爷是糖尿病。。空腹能吃200g米饭，他吃了那么多东西，谁知道他能吃多少米饭？", 
+            "answers": [
+                {
+                    "id": 6262, 
+                    "puzzle_id": 1590, 
+                    "answer": "A、100", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6263, 
+                    "puzzle_id": 1590, 
+                    "answer": "B、101", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6264, 
+                    "puzzle_id": 1590, 
+                    "answer": "C、102", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6265, 
+                    "puzzle_id": 1590, 
+                    "answer": "D、无法确定", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1608, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "【谁不会迷路】离山南市城中心五十多公里远的万峰大山，名胜众多，山清水秀，风景宜人。五位退休老工人赵大爷、牛大爷、孙大爷、马大爷、李大爷约好今天要去那里览胜观光。但是，那里道路弯曲狭窄，叉道口特多，并由于有关部门管理不善，特别又加上前两个多月来风大雨多，道路指示牌已毁坏不少，一时还未能得以修复，加之近来天气也不太好，那里的游人稀少。正因为如此，他们的亲人无一不纷纷劝阻他们，希望他们待道路指示牌完全修复、游人较多时择日再去。但他们坚定地认为他们中有人不会迷路，不用亲人担心。请想想，他们中是谁不会迷路呢？", 
+            "difficulty": 2, 
+            "image": "", 
+            "analysis": "选择D。
+“老马识途”嘛，退休了的马大爷不就是老马？所以是马大爷不会迷路呗！", 
+            "answers": [
+                {
+                    "id": 6330, 
+                    "puzzle_id": 1608, 
+                    "answer": "A、赵大爷", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6331, 
+                    "puzzle_id": 1608, 
+                    "answer": "B、牛大爷", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6332, 
+                    "puzzle_id": 1608, 
+                    "answer": "C、孙大爷", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6333, 
+                    "puzzle_id": 1608, 
+                    "answer": "D、马大爷", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 6334, 
+                    "puzzle_id": 1608, 
+                    "answer": "E、李大爷", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1619, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "新年伊始，神州飞速汽车发动机制造有限公司召集了机械、自动化等专业的骨干工程师对某型号汽车发动机壳体铸件加工中心的重大改进方案进行了三次集体讨论，其中莫沫、尚探、郝燕、钱蔻、艾萧五位自动化工程师中有两位工程师每次都没有发表意见，你看是哪两位？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择F。
+每次都没有发表意见就是“不言”或是“无言”，也就是钳口（钱蔻）不言，以及默默（莫沫）无言。", 
+            "answers": [
+                {
+                    "id": 6378, 
+                    "puzzle_id": 1619, 
+                    "answer": "A、莫沫、尚探", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6379, 
+                    "puzzle_id": 1619, 
+                    "answer": "B、尚探、郝燕", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6380, 
+                    "puzzle_id": 1619, 
+                    "answer": "C、郝燕、钱蔻", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6381, 
+                    "puzzle_id": 1619, 
+                    "answer": "D、钱蔻、艾萧", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6382, 
+                    "puzzle_id": 1619, 
+                    "answer": "E、尚探、钱蔻", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6383, 
+                    "puzzle_id": 1619, 
+                    "answer": "F、钱蔻、莫沫", 
+                    "correct": 1
+                }
+            ]
+        }, 
+        {
+            "id": 1644, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "【她眼里只有谁】茜茜、荷荷、华华、梅梅、俪俪、双双个个婷婷玉立，成绩优异，是向阳中学有名的六朵金花。然而在同学姣姣的眼里除了她们当中的一个同学外，再没有一位同学放在她眼里，你说在她眼里的是哪位同学呢？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择E。
+“历历（俪俪）在目”嘛，所以只有俪俪在姣姣的眼里哟。", 
+            "answers": [
+                {
+                    "id": 6479, 
+                    "puzzle_id": 1644, 
+                    "answer": "A、茜茜", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6480, 
+                    "puzzle_id": 1644, 
+                    "answer": "B、荷荷", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6481, 
+                    "puzzle_id": 1644, 
+                    "answer": "C、华华", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6482, 
+                    "puzzle_id": 1644, 
+                    "answer": "D、梅梅", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6483, 
+                    "puzzle_id": 1644, 
+                    "answer": "E、俪俪", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 6484, 
+                    "puzzle_id": 1644, 
+                    "answer": "F、双双", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1657, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "今天上午向阳小学第二节课一下课，一年级B班的小朋友村村、池池和全班大部份同学一道连蹦带跳地来到了操场上。正在有人喊着大家来捉迷藏时，不知那位同学提出了做竞猜村村与池池高矮的游戏来，结果话音刚落，大家七嘴八舌争论了起来。有的说这个高，有的说那个矮，有的则说他们一样高。您听了以后是什么看法呢？", 
+            "difficulty": 4, 
+            "image": "", 
+            "analysis": "选择A。
+村村即“寸寸”，池池即“尺尺”。因为“尺短寸长”，所以村村高、池池矮。", 
+            "answers": [
+                {
+                    "id": 6530, 
+                    "puzzle_id": 1657, 
+                    "answer": "A、村村高、池池矮", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 6531, 
+                    "puzzle_id": 1657, 
+                    "answer": "B、村村矮、池池高", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6532, 
+                    "puzzle_id": 1657, 
+                    "answer": "C、村村、池池一样高", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6533, 
+                    "puzzle_id": 1657, 
+                    "answer": "D、猜不出来", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1689, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "小明天生力大，有一次打羽毛球由于用力过大，球五分钟后才落地，可能吗？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+球挂在了树上。", 
+            "answers": [
+                {
+                    "id": 6663, 
+                    "puzzle_id": 1689, 
+                    "answer": "A、可能", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 6664, 
+                    "puzzle_id": 1689, 
+                    "answer": "B、不可能", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 6665, 
+                    "puzzle_id": 1689, 
+                    "answer": "C、不确定", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1929, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "小明和小青是青梅竹马，经常会在一起玩，小青经常说：“我喜欢蒲公英，因为它很勇敢，从小就要离开妈妈的身边，独自飘荡，就像数字10一样，站在孤独的顶峰，但心依然坚强。”小明听了，心被触动了一番，就开始爱上了这个女孩，于是打算追求她。一天，他将他精心准备的表白信给小青后在家收到小青的一个纸条，上面写着：IOC。你知道小青的意思是什么吗？", 
+            "difficulty": 3, 
+            "image": "", 
+            "analysis": "选择A。
+如果是凯撒移位密码的话，小青说她喜欢和10一样的蒲公英，可以得出凯撒移位密码的移位数和10有关，于是，移位之后得出YES这个单词，那么小青肯定是答应他了。", 
+            "answers": [
+                {
+                    "id": 7480, 
+                    "puzzle_id": 1929, 
+                    "answer": "A、答应他", 
+                    "correct": 1
+                }, 
+                {
+                    "id": 7481, 
+                    "puzzle_id": 1929, 
+                    "answer": "B、不答应他", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 7482, 
+                    "puzzle_id": 1929, 
+                    "answer": "C、逗他玩的", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 7483, 
+                    "puzzle_id": 1929, 
+                    "answer": "D、还没想好", 
+                    "correct": 0
+                }
+            ]
+        }, 
+        {
+            "id": 1952, 
+            "category_id": 7, 
+            "category_name": "脑筋急转弯", 
+            "title": "下列哪项不是当代人烦躁的诱因？", 
+            "difficulty": 3, 
+            "image": "/dailypuzzle/2061.jpg", 
+            "analysis": "选择D。
+A为发送失败，表明信号条件不良好；B为手机没电；C为网页无法访问；前三项均会使当代人心情烦躁。D，有wifi，而且信号满格，不会让当代人感到烦躁。", 
+            "answers": [
+                {
+                    "id": 7572, 
+                    "puzzle_id": 1952, 
+                    "answer": "A、图A", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 7573, 
+                    "puzzle_id": 1952, 
+                    "answer": "B、图B", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 7574, 
+                    "puzzle_id": 1952, 
+                    "answer": "C、图C", 
+                    "correct": 0
+                }, 
+                {
+                    "id": 7575, 
+                    "puzzle_id": 1952, 
+                    "answer": "D、图D", 
+                    "correct": 1
+                }
+            ]
+        }
+    ]
+}
