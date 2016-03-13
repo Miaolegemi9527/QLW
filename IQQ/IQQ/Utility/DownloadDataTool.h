@@ -2,7 +2,7 @@
 //  DownloadDataTool.h
 //  IQQ
 //
-//  Created by lanou on 15/12/12.
+//  Created by Miaolegemi on 15/12/12.
 //  Copyright © 2015年 9527. All rights reserved.
 //
 
